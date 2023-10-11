@@ -1,10 +1,10 @@
 ## Marcus L. Nascimento
 
-I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ). 
+I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ).
 
-I hold a BSc in Actuarial Science and a MSc in Statistics both from the Federal University of Rio de Janeiro (Brazil), and I am a DSc candidate in Statistics at the same institution.
+I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal University of Rio de Janeiro (Brazil). Currently, I am a DSc candidate in Statistics at the same institution.
 
-In partnership with colleagues from PCRJ, I have designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative that aims to publicize economic indicators and policies. As a part of the project, for example, we have developed an [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio).
+In partnership with colleagues from PCRJ, I have designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative that aims to publicize economic indicators and policies. For example, we have developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) as a part of the project.
 
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
