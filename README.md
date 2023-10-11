@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ### Under review
 
+- Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for complex survey data under informative sampling. _R&R at JSSAM_.
+
 ### In preparation
 
 ## Publications
