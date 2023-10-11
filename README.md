@@ -4,7 +4,7 @@ I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https:/
 
 I hold a BSc in Actuarial Science and a MSc in Statistics both from the Federal University of Rio de Janeiro (Brazil), and I am a DSc candidate in Statistics at the same institution.
 
-In partnership with colleagues from PCRJ, I have designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative that aims to publicize economic indicators and policies. As a part of the project, for example, an [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) was developed.
+In partnership with colleagues from PCRJ, I have designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative that aims to publicize economic indicators and policies. As a part of the project, for example, we have developed an [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio).
 
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
