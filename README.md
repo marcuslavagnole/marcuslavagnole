@@ -1,6 +1,6 @@
 ## Marcus L. Nascimento
 
-I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/). 
+I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ). 
 
 I hold a BSc in Actuarial Science and a MSc in Statistics both from the Federal University of Rio de Janeiro (Brazil), and I am a DSc candidate in Statistics at the same institution. 
 
