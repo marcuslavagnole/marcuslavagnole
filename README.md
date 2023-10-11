@@ -2,7 +2,7 @@
 
 ### Hi there,
 
-I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and I am a DSc candidate in Statistics at the Federal University of Rio de Janeiro (Brazil).   
+I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and a DSc candidate in Statistics at the Federal University of Rio de Janeiro (Brazil).   
 
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
