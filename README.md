@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Work in progress
+
+### Under review
+
+### In preparation
 
 ## Publications
+
+### Peer reviewed
 
 ### Prior to DSc
 
