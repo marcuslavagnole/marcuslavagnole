@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 - Nascimento, M. L., Abanto-Valle, C. A. (2022). Flexible robust mixture regression modeling. _REVSTAT-Statistical Journal_, 20(1), 101-115.
   [[link]](https://doi.org/10.57805/revstat.v20i1.365) [[code]](https://github.com/marcuslavagnole/Mixture_regression_SMSN)
 
-- Nascimento, M. L., Becker, K. L., Mendonça, M. J. (2020). Implications of Brazilian Institutional Guidelines on Educational Efficiency. _Economía_, 21(1), 147-168.
+- Nascimento, M. L., Becker, K. L., Mendonça, M. J. (2020). Implications of Brazilian Institutional Guidelines on Educational Efficiency. _Economía-LACEA Journal_, 21(1), 147-168.
   [[link]](https://doi.org/10.1353/eco.2020.0009) [[code]](https://github.com/marcuslavagnole/Educational_efficiency)
 
