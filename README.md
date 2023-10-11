@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Peer-reviewed papers
+## Publications
+
+# Prior to DSc
 
 - Nascimento, M. L., Gonçalves, K. C. M., Mendonça, M. J. (2023). Spatio-Temporal Instrumental Variables Regression with Missing Data: A Bayesian Approach. _Computational Economics_, 62(1), 29-47.
   [[link]](https://doi.org/10.1007/s10614-022-10269-z) [[code]](https://github.com/marcuslavagnole/SpatioTemporal_IV_regression)
