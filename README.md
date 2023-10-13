@@ -6,7 +6,7 @@ I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal Univ
 
 In partnership with colleagues from PCRJ, I have designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative that aims to publicize economic indicators and policies. For example, we have developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) as a part of the project.
 
-You can reach me at (marcuslavagnole@gmail.com)[mailto:marcuslavagnole@gmail.com].
+You can reach me at [marcuslavagnole@gmail.com](mailto:marcuslavagnole@gmail.com).
 
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
