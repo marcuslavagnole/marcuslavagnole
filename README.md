@@ -2,7 +2,7 @@
 
 I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ).
 
-I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal University of Rio de Janeiro (Brazil). Currently, I am a DSc candidate in Statistics under the supervision of [Professor Kelly Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/) at the same institution. My research interests lie in applying and developing statistical methods for survey data analysis and social and health problems.
+I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal University of Rio de Janeiro (Brazil). Currently, I am a DSc candidate in Statistics at the same institution. My research interests lie in applying and developing statistical methods for survey data analysis and social and health problems.
 
 In partnership with colleagues from PCRJ, I have designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative that aims to publicize economic indicators and policies. For example, we have developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) as a part of the project.
 
