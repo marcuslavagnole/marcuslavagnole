@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 - Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
 ## Publications
-
+<!--
 ### Methodological Research
 
 ### Applied Research
-
+-->
 ### Prior to DSc
 
 - Nascimento, M. L., Gonçalves, K. C. M., Mendonça, M. J. (2023). Spatio-Temporal Instrumental Variables Regression with Missing Data: A Bayesian Approach. _Computational Economics_, 62(1), 29-47.
