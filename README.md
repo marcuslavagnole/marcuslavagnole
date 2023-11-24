@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 ## Publications
 
-### Peer reviewed
+### Methodological Research
+
+### Applied Research
 
 ### Prior to DSc
 
