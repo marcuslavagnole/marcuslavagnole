@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 - Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
+## Work in progress
+
+- A
+
 ## Publications
 <!--
 ### Methodological Research
