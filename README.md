@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for bounded count data under informative sampling. [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
-- Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
+- Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Submitted_. [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
 ## Work in progress
 
