@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ## Work in progress
 
+- Nascimento, M. L., Gonçalves, K. C. M. Multiple-output Bayesian quantile regression for complex survey data under informative sampling.
+
 - Ramos, A. P., Caldieraro, F., Nascimento, M. L., Saldanha, R. Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths.
 
 - Ramos, A. P., Caldieraro, F., Hazlett, C., Nascimento, M. L. One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic.
