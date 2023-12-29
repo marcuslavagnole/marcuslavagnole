@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Methods
 
 ### Applications
--->
+
 ### Prior to DSc
 -->
 ### Pre-Doctoral
