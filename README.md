@@ -28,15 +28,18 @@ Here are some ideas to get you started:
   (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br> 
    _Minor revision at JSSAM_
 
-- Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation (with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
+- Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation) <br>
+(with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
 [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 _Submitted_
 
 - Ramos, A. P., Caldieraro, F., Nascimento, M. L., Saldanha, R. Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths.
 
-- Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for bounded count data under informative sampling. [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
+- Bayesian quantile regression models for bounded count data under informative sampling. [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling) <br>
+(with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/))
 
-- Nascimento, M. L., Gonçalves, K. C. M. Bayesian multiple-output quantile regression for complex survey data under informative sampling. [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
+- Bayesian multiple-output quantile regression for complex survey data under informative sampling. [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling) <br>
+(with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/))
 
 ## Work in progress
 
