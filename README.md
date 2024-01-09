@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. <br>
-([Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/))
+(with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/))
 
 - Bayesian quantile regression models for bounded count data under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
