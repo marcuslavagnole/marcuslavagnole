@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 - Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for complex survey data under informative sampling. _R&R at JSSAM_.
   [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
+  (with Kelly C. M. Gonçalves)
 
 - Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Submitted_. [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 
