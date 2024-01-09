@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 -->
 ## Working papers
 
-- Bayesian quantile regression models for complex survey data under informative sampling. [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling) <br>
+- Bayesian quantile regression models for complex survey data under informative sampling. _Minor revision at JSSAM_. <br>
   (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br> 
-   _Minor revision at JSSAM_
+  [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
 - Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation) <br>
 (with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
