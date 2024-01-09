@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 ## Working papers
 
-- Bayesian quantile regression models for complex survey data under informative sampling (with Kelly C. M. Gonçalves). 
+- Bayesian quantile regression models for complex survey data under informative sampling (with Kelly C. M. Gonçalves). <br>
   [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling) <br>
    _Minor revision at JSSAM_.
 
