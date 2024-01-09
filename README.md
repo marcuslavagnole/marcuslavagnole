@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 - Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation) <br>
 (with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
-[[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
 _Submitted_
 
 - Ramos, A. P., Caldieraro, F., Nascimento, M. L., Saldanha, R. Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths.
