@@ -1,10 +1,10 @@
 ## Marcus L. Nascimento
 
-I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ).
+I am a Junior Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES).
 
 I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal University of Rio de Janeiro (Brazil). Currently, I am a DSc candidate in Statistics at the same institution. My research interests lie in applying and developing statistical methods for survey data analysis and social and health problems.
 
-In partnership with colleagues from PCRJ, I have designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative that aims to publicize economic indicators and policies. For example, we have developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) as a part of the project.
+From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ). In partnership with colleagues from PCRJ, I have designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative that aims to publicize economic indicators and policies. For example, we have developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) as a part of the project.
 
 You can reach me at [marcus.gerardus@fundacaojles.org.br](mailto:marcus.gerardus@fundacaojles.org.br) and see my [CV](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) for more information.
 
