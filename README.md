@@ -1,6 +1,6 @@
 ## Marcus L. Nascimento
 
-I am a Junior Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES).
+I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES).
 
 I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal University of Rio de Janeiro (Brazil). Currently, I am a DSc candidate in Statistics at the same institution. My research interests lie in applying and developing statistical methods for survey data analysis and social and health problems.
 
