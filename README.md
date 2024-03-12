@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths.  _Submitted_. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/)) <br>
-[[link]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1)
+[[preprint]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1)
 
 - Bayesian quantile regression models for bounded count data under informative sampling. _Submitted_. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
