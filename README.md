@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/))
 
 - A decision support system for tax arrears recovery based on machine learning survival algorithms. <br>
-(with [Heudson T. Mirandola](http://lattes.cnpq.br/3030808069800164), [Ralph S. Silva](https://scholar.google.com.br/citations?user=ZsrRVHYAAAAJ&hl=pt-BR))
+(with [Heudson T. Mirandola](http://lattes.cnpq.br/3030808069800164), [Ralph S. Silva](https://scholar.google.com.br/citations?user=ZsrRVHYAAAAJ&hl=pt-BR), [Leon M. Barboza](https://github.com/LMBarboza))
