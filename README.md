@@ -1,4 +1,4 @@
-## Marcus L. Nascimento
+# Marcus L. Nascimento
 
 I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES). My research interests lie in applying and developing statistical methods for survey data analysis and real-world problems.
 
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Work in progress 
+## Work in progress 
 
-#### Under review
+### Under review
 
 - Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. R&R at _Security Journal_. <br>
 (with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
-#### In preparation
+### In preparation
 
 - Bayesian multiple-output quantile regression for complex survey data under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/))
