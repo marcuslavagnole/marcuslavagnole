@@ -1,4 +1,6 @@
+<!--
 # Marcus L. Nascimento
+-->
 
 I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES). My research interests lie in applying and developing statistical methods for survey data analysis and real-world problems.
 
