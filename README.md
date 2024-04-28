@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Work in progress 
+### Work in progress 
 
-### Manuscripts under review
+#### Under review
 
 - Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. R&R at _Security Journal_. <br>
 (with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
-### Manuscripts in preparation
+#### In preparation
 
 - Bayesian multiple-output quantile regression for complex survey data under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/))
