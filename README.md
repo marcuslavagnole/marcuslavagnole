@@ -30,10 +30,6 @@ Here are some ideas to get you started:
 
 ### Under review
 
-- Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. R&R at _Security Journal_. <br>
-(with [Leonardo M. Barreto](https://www.linkedin.com/in/leonardo-moog-87b182180/)). <br>
-[[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
-
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/)) <br>
 [[preprint]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1)
