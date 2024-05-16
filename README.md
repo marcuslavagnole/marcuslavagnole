@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### In preparation
 
-- Bayesian multiple-output quantile regression for complex survey data under informative sampling. <br>
+- An expectation-maximization approach to Bayesian multiple-output quantile regression analysis under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/))
 <!--
 <br>
