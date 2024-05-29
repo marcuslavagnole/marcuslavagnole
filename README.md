@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
-### In preparation
-
-- An expectation-maximization approach to Bayesian multiple-output quantile regression analysis under informative sampling. <br>
+- A Bayesian approach to multiple-output quantile regression analysis under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/EM_BWQR_Informative_Sampling)
+
+### In preparation
 
 <!--
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
