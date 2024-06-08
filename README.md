@@ -1,6 +1,4 @@
-<!--
-# Marcus L. Nascimento
--->
+## About me
 
 I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and I hold a DSc in Statistics from the Federal University of Rio de Janeiro (Brazil).
 
