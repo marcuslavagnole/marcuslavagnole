@@ -10,9 +10,11 @@ From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://pr
 I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal University of Rio de Janeiro (Brazil). Currently, I am a DSc candidate in Statistics at the same institution. My research interests lie in applying and developing statistical methods for survey data analysis and real-world problems.
 
 My research interests lie in applying and developing statistical methods for survey data analysis and real-world problems.
+
+[<img src="publications.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp; &nbsp; 
 -->
 
-[<img src="publications.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp; &nbsp; [<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](http://lattes.cnpq.br/5803567335277582) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304)
+[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](http://lattes.cnpq.br/5803567335277582) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304)
 
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
