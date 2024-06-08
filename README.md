@@ -1,20 +1,14 @@
 ## About me
 
-I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES) and I hold a DSc in Statistics from the Federal University of Rio de Janeiro (Brazil).
+I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES). I hold a DSc in Statistics from the Federal University of Rio de Janeiro (Brazil). My research interests include survey statistics, quantile regression, causal inference, and applied statistics.
 
-From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ). In partnership with colleagues from PCRJ, I developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <br>
-
-<!--
-I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal University of Rio de Janeiro (Brazil). Currently, I am a DSc candidate in Statistics at the same institution. My research interests lie in applying and developing statistical methods for survey data analysis and real-world problems.
-
-My research interests lie in applying and developing statistical methods for survey data analysis and real-world problems.
-
-&nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](http://lattes.cnpq.br/5803567335277582) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304)
--->
-
-**Research interests:** survey statistics, quantile regression, causal inference, applied statistics.
+From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ). In partnership with colleagues from PCRJ, I developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <be>
 
 [<img src="publications.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br)
+
+<!--
+&nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](http://lattes.cnpq.br/5803567335277582) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304)
+-->
 
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
