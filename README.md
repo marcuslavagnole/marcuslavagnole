@@ -12,7 +12,7 @@ From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://pr
 
 Here is my [publications](https://github.com/marcuslavagnole/Publications).
 
-[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">]()
+[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](http://lattes.cnpq.br/5803567335277582)
 
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
