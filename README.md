@@ -14,6 +14,7 @@ My research interests lie in applying and developing statistical methods for sur
 
 [<img src="publications.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br)
 
+**Research interests**
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
