@@ -12,7 +12,7 @@ From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://pr
 
 Here is my [CV](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) and [publications](https://github.com/marcuslavagnole/Publications). For more information, contact me at [marcus.gerardus@fundacaojles.org.br](mailto:marcus.gerardus@fundacaojles.org.br).
 
-[<a href="https://www.flaticon.com/free-icons/mail" title="mail icons">Mail icons created by Freepik - Flaticon</a>](mailto:marcus.gerardus@fundacaojles.org.br)
+[<a href="https://www.flaticon.com/free-icons/mail" title="mail icons"></a>](mailto:marcus.gerardus@fundacaojles.org.br)
 
 <!--
 **marcuslavagnole/marcuslavagnole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
