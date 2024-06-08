@@ -10,7 +10,7 @@ I hold a BSc in Actuarial Science and an MSc in Statistics from the Federal Univ
 
 From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ). In partnership with colleagues from PCRJ, I developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. From 2018 to 2019, I was a Data Scientist at Accenture, mainly working on projects for companies in the telecommunications industry.
 
-Here is my [CV](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) and [publications](https://github.com/marcuslavagnole/Publications).
+Here is my [publications](https://github.com/marcuslavagnole/Publications).
 
 [<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br) [<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)
 
