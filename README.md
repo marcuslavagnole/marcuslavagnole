@@ -15,7 +15,7 @@ My research interests lie in applying and developing statistical methods for sur
 [<img src="publications.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br)
 
 **Research interests:**
-- Survey statistics
+-- Survey statistics
 - Quantile regression
 - Causal inference
 - Applied statistics
