@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
-- A Bayesian approach to multiple-output quantile regression analysis under informative sampling.  _R&R at the Journal of the Royal Statistical Society, Series A (Statistics in Society)_ <br>
+- A Bayesian approach to multiple-output quantile regression analysis under informative sampling.  _R&R at the Journal of the Royal Statistical Society, Series A (Statistics in Society)_. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/EM_BWQR_Informative_Sampling)
 
