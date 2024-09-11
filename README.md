@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/)) <br>
 [[preprint]](https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1)
 
+<!--
 - Bayesian quantile regression models for bounded count data under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
+-->
 
 - A Bayesian approach to multiple-output quantile regression analysis under informative sampling.  _R&R at the Journal of the Royal Statistical Society, Series A (Statistics in Society)_. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
@@ -45,10 +47,9 @@ Here are some ideas to get you started:
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/))
 
-<!--
-- An Expectation-Maximization approach to noncrossing Bayesian quantile regression analysis under informative sampling.
--->
+- An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis. <br>
 
+<!--
 - A decision support system for tax arrears recovery based on machine learning survival algorithms. <br>
 (with [Heudson T. Mirandola](http://lattes.cnpq.br/3030808069800164), [Ralph S. Silva](https://scholar.google.com.br/citations?user=ZsrRVHYAAAAJ&hl=pt-BR), [Leon U. Barboza](https://github.com/LMBarboza))
-
+-->
