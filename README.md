@@ -42,12 +42,14 @@ Here are some ideas to get you started:
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/EM_BWQR_Informative_Sampling)
 
+<!--
+- An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression. <br>
+-->
+
 ### In preparation
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/))
-
-- An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression. <br>
 
 <!--
 - A decision support system for tax arrears recovery based on machine learning survival algorithms. <br>
