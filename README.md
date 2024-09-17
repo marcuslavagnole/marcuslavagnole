@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 
 ## Publications
 
+(click [here](https://github.com/marcuslavagnole/Publications) for a full list)
+
 ### Statistics
 
 - Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for complex survey data under informative sampling. _Journal of Survey Statistics and Methodology_, 12(4), 1105–1130. <br> 
