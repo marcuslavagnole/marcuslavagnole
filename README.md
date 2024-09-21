@@ -1,10 +1,12 @@
 ## About me
 
-I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES). I hold a DSc in Statistics from the Federal University of Rio de Janeiro (Brazil). My research interests include survey statistics, quantile regression, and applied statistics.
+I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/) (FJLES). My research interests include survey statistics, quantile regression, and applied statistics.
 
 From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ). In partnership with colleagues from PCRJ, I developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <be>
 
 <!--
+I hold a DSc in Statistics from the Federal University of Rio de Janeiro (Brazil).
+
 [<img src="publications.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp;
 -->
 &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304) &nbsp; &nbsp;[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br)
