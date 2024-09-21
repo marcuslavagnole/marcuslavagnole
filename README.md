@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 ### In preparation
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
-(with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/))
+(with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
+[[preprint]](https://osf.io/fea6m/)
 
 - A decision support system for tax arrears recovery based on machine learning survival algorithms. <br>
 (with [Heudson T. Mirandola](http://lattes.cnpq.br/3030808069800164), [Ralph S. Silva](https://scholar.google.com.br/citations?user=ZsrRVHYAAAAJ&hl=pt-BR), [Leon U. Barboza](https://github.com/LMBarboza))
