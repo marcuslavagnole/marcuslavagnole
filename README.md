@@ -6,7 +6,7 @@ I am a Research Scientist at the [José Luiz Egydio Setúbal Foundation](https:/
 From 2021 to 2024, I was an Advisor at the [Rio de Janeiro City Hall](https://prefeitura.rio/) (PCRJ). In partnership with colleagues from PCRJ, I developed the [Indicator of Economic Activity](https://github.com/marcuslavagnole/IAE_Rio) (IAE-Rio) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <be>
 -->
 
-I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a Research Affiliate at the José Luiz Egydio Setúbal Foundation ([FJLES](https://fundacaojles.org.br/en/)). My research interests include survey statistics, quantile regression, and applied statistics.
+I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a Research Affiliate at the José Luiz Egydio Setúbal Foundation ([FJLES](https://fundacaojles.org.br/en/)). My research interests include social statistics, survey data analysis, quantile regression, and applied statistics.
 
 From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City Hall ([PCRJ](https://prefeitura.rio/)). In partnership with colleagues from PCRJ, I developed the Indicator of Economic Activity ([IAE-Rio](https://github.com/marcuslavagnole/IAE_Rio)) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <be>
 
