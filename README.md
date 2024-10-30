@@ -1,17 +1,14 @@
 ## About me
 
-I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a Research Affiliate at the José Luiz Egydio Setúbal Foundation ([FJLES](https://fundacaojles.org.br/en/)). My research interests include survey statistics, quantile regression, and applying statistical methods to actuarial, health, and social sciences.
+I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a Research Affiliate at the José Luiz Egydio Setúbal Foundation ([FJLES](https://fundacaojles.org.br/en/)). I received my DSc in Statistics from the Federal University of Rio de Janeiro (Brazil). My research interests include survey statistics, quantile regression, and applying statistical methods to health and social sciences.
 
 From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City Hall ([PCRJ](https://prefeitura.rio/)). In partnership with colleagues from PCRJ, I developed the Indicator of Economic Activity ([IAE-Rio](https://github.com/marcuslavagnole/IAE_Rio)) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <be>
 
 <!--
-I hold a DSc in Statistics from the Federal University of Rio de Janeiro (Brazil).
-
 [<img src="publications.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp;
--->
+
 &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304) &nbsp; &nbsp;[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br)
 
-<!--
 &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](http://lattes.cnpq.br/5803567335277582)
 -->
 
@@ -57,8 +54,10 @@ Here are some ideas to get you started:
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
 [[preprint]](https://osf.io/fea6m/)
 
+<!--
 - A decision support system for tax arrears recovery based on machine learning survival algorithms. <br>
 (with [Heudson T. Mirandola](http://lattes.cnpq.br/3030808069800164), [Ralph S. Silva](https://scholar.google.com.br/citations?user=ZsrRVHYAAAAJ&hl=pt-BR), [Leon U. Barboza](https://github.com/LMBarboza))
+-->
 
 ## Publications
 
