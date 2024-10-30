@@ -1,7 +1,7 @@
 ## About me
 
 <div align="justify"> 
-I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a Research Affiliate at the José Luiz Egydio Setúbal Foundation ([FJLES](https://fundacaojles.org.br/en/)). I received my DSc in Statistics from the Federal University of Rio de Janeiro (Brazil). My research interests include survey statistics, quantile regression, and applying statistical methods to health and social sciences.
+I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a Research Affiliate at the José Luiz Egydio Setúbal Foundation ([FJLES](https://fundacaojles.org.br/en/)). I received my DSc in Statistics from the Federal University of Rio de Janeiro (Brazil). My research interests include survey statistics, quantile regression, and applying statistical methods to health and social sciences. <be>
 </div>
 
 <div align="justify"> 
