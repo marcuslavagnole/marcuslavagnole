@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ## Publications
 
-([full list](https://github.com/marcuslavagnole/Publications))
+(A full list can be found [here](https://github.com/marcuslavagnole/Publications))
 
 ### Statistics
 
