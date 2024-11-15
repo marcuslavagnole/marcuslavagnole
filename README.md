@@ -4,7 +4,7 @@ I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundaçã
 
 From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City Hall ([PCRJ](https://prefeitura.rio/)). In partnership with colleagues, I developed the Indicator of Economic Activity ([IAE-Rio](https://github.com/marcuslavagnole/IAE_Rio)) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <be>
 
-&nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304) &nbsp; &nbsp;[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br)
+&nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304) &nbsp; &nbsp;[<img src="email.png" width="30" height="30">](mailto:marcus.gerardus@fundacaojles.org.br)
 
 <!--
 [<img src="publications.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp;
