@@ -68,12 +68,12 @@ Here are some ideas to get you started:
 
 (A full list can be found [here](https://github.com/marcuslavagnole/Publications))
 
-### Statistics
+### Methods
 
 - Nascimento, M. L., Gonçalves, K. C. M. Bayesian quantile regression models for complex survey data under informative sampling. _Journal of Survey Statistics and Methodology_, 12(4), 1105-1130, 2024. <br> 
   [[link]](https://doi.org/10.1093/jssam/smae015) [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
-### Cross-disciplinary 
+### Applications
 
 - Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_, 37(4), 1597-1618, 2024. <br>
   [[link]](https://doi.org/10.1057/s41284-024-00433-5) [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
