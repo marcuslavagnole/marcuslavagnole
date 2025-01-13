@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
 [[preprint]](https://osf.io/fea6m/)
 
-- An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling.
+- An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
+- (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/))
 
 <!--
 [[code]](https://github.com/marcuslavagnole/Noncrossing_quantile_regression)
