@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 [[preprint]](https://osf.io/fea6m/)
 
 - An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
-(with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/))
+(with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
+[[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
 
 <!--
 [[code]](https://github.com/marcuslavagnole/Noncrossing_quantile_regression)
