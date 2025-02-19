@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Working papers 
+## Work in progress
+
+### Under review 
 
 - Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Raphael Saldanha](https://rfsaldanha.github.io/)) <br>
@@ -41,6 +43,12 @@ Here are some ideas to get you started:
 - An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
 (with [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/)) <br>
 [[code]](https://github.com/marcuslavagnole/BWQR_Informative_Sampling)
+
+### In preparation
+
+- One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
+(with [Antonio P. Ramos](https://tomramos.github.io/), [Fabio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
+[[preprint]](https://osf.io/fea6m/) 
 
 <!--
 ## Work in progress
