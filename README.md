@@ -73,7 +73,6 @@ Here are some ideas to get you started:
 
 - A decision support system for tax arrears recovery based on machine learning survival algorithms. <br>
 (with [Heudson T. Mirandola](http://lattes.cnpq.br/3030808069800164), [Ralph S. Silva](https://scholar.google.com.br/citations?user=ZsrRVHYAAAAJ&hl=pt-BR), [Leon U. Barboza](https://github.com/LMBarboza))
--->
 
 ## Publications
 
@@ -88,3 +87,4 @@ Here are some ideas to get you started:
 
 - Nascimento, M. L., Barreto, L. M. Improving crime count forecasts in the city of Rio de Janeiro via reconciliation. _Security Journal_, 37(4), 1597-1618, 2024. <br>
   [[link]](https://doi.org/10.1057/s41284-024-00433-5) [[code]](https://github.com/marcuslavagnole/Crime_forecast_reconciliation)
+-->
