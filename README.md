@@ -2,9 +2,9 @@
 
 I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a Research Affiliate at the José Luiz Egydio Setúbal Foundation ([FJLES](https://fundacaojles.org.br/en/)). I received my DSc in Statistics from the Federal University of Rio de Janeiro (Brazil). My research interests include survey statistics, quantile regression, and applying statistical methods to health and social sciences.
 
-From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City Hall ([PCRJ](https://prefeitura.rio/)). In partnership with colleagues, I developed the Indicator of Economic Activity ([IAE-Rio](https://github.com/marcuslavagnole/IAE_Rio)) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <be>
+From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City Hall ([PCRJ](https://prefeitura.rio/)). In partnership with colleagues, I developed the Indicator of Economic Activity ([IAE-Rio](https://github.com/marcuslavagnole/IAE_Rio)) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. 
 
-You can reach me at [marcus.lavagnole@fgv.br](mailto:marcus.lavagnole@fgv.br).
+You can reach me at [marcus.lavagnole@fgv.br](mailto:marcus.lavagnole@fgv.br). <be>
 
 &nbsp;[<img src="writing.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](https://lattes.cnpq.br/5803567335277582) 
 
