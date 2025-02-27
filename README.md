@@ -6,7 +6,7 @@ From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City H
 
 You can reach me at [marcus.lavagnole@fgv.br](mailto:marcus.lavagnole@fgv.br). <be>
 
-&nbsp;[<img src="writing.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](https://lattes.cnpq.br/5803567335277582) 
+&nbsp;[<img src="work_in_progress.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp;[<img src="writing.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf) &nbsp; &nbsp;[<img src="linkedin.png" width="30" height="30">](https://linkedin.com/in/marcus-l-nascimento-9b9625304) &nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">](https://lattes.cnpq.br/5803567335277582) 
 
 <!--
 
