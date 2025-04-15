@@ -4,11 +4,11 @@ I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundaçã
 
 From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City Hall ([PCRJ](https://prefeitura.rio/)). In partnership with colleagues, I developed the Indicator of Economic Activity ([IAE-Rio](https://github.com/marcuslavagnole/IAE_Rio)) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. <be>
 
-&nbsp;[<img src="work_in_progress.png" width="30" height="30">](https://github.com/marcuslavagnole/Work_in_progress) &nbsp; &nbsp;[<img src="writing.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications) &nbsp
+&nbsp;[<img src="work_in_progress.png" width="30" height="30">](https://github.com/marcuslavagnole/Work_in_progress) &nbsp; &nbsp;[<img src="writing.png" width="30" height="30">](https://github.com/marcuslavagnole/Publications)
 
 <!--
 
-; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)
+&nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)
 
 You can reach me at [marcus.lavagnole@fgv.br](mailto:marcus.lavagnole@fgv.br). <be>
 
