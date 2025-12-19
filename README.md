@@ -9,7 +9,7 @@ From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City H
 ## Working papers
 
 - An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
-[[preprint]](https://github.com/marcuslavagnole/bqr_informative_sampling/blob/main/noncrossing.pdf) [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
+[[preprint]](https://github.com/marcuslavagnole/noncrossing_bqr/blob/main/noncrossing.pdf) [[code]](https://github.com/marcuslavagnole/noncrossing_bqr)
 
 <!---
 - Mapping household food (in)security from both aggregated and disaggregated survey-based areal data. <br>
