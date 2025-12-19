@@ -4,9 +4,32 @@ I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundaçã
 
 From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City Hall ([PCRJ](https://prefeitura.rio/)). In partnership with colleagues, I developed the Indicator of Economic Activity ([IAE-Rio](https://github.com/marcuslavagnole/iae_rio)) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. I have also worked at Accenture as a Data Scientist, mostly on consulting projects for the telecommunications industry. <be>
 
-&nbsp;[<img src="writing.png" width="30" height="30">](https://github.com/marcuslavagnole/Research)&nbsp; &nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)&nbsp; &nbsp;[<img src="curriculum_vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)
+&nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)&nbsp; &nbsp;[<img src="curriculum_vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)
+
+## Working papers
+
+- An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
+[[preprint]](https://github.com/marcuslavagnole/bqr_informative_sampling/blob/main/noncrossing.pdf) [[code]](https://github.com/marcuslavagnole/bqr_informative_sampling)
+
+<!---
+- Mapping household food (in)security from both aggregated and disaggregated survey-based areal data. <br>
+(with Gustavo S. Ferreira)
+--->
+
+- One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
+(with [Antonio P. Ramos](https://tomramos.github.io/), [Fábio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
+[[preprint]](https://osf.io/fea6m/)
+
+<!---
+- Crop insurance losses in the Brazilian market. <br>
+(with [Rodrigo S. Targino](https://rtargino.netlify.app/) <br>
+[[code]](https://github.com/marcuslavagnole/crop_insurance_losses)
+--->
 
 <!--
+
+&nbsp;[<img src="writing.png" width="30" height="30">](https://github.com/marcuslavagnole/Research)&nbsp; 
+
 &nbsp;[<img src="work_in_progress.png" width="30" height="30">](https://github.com/marcuslavagnole/Work_in_progress) &nbsp; 
 
 &nbsp; &nbsp;[<img src="curriculum-vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)
