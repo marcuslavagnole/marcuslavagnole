@@ -7,6 +7,7 @@ From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City H
 &nbsp;[<img src="curriculum_vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)&nbsp; &nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!---
+
 ## Working papers
 
 - An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression analysis under informative sampling. <br>
@@ -26,6 +27,7 @@ From January 2021 to October 2024, I was an Advisor at the Rio de Janeiro City H
 (with [Rodrigo S. Targino](https://rtargino.netlify.app/) <br>
 [[code]](https://github.com/marcuslavagnole/crop_insurance_losses)
 --->
+
 --->
 
 <!--
