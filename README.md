@@ -4,9 +4,11 @@ I am a Postdoctoral Researcher at the School of Applied Mathematics at Fundaçã
 
 From September 2023 to September 2024, I served as a Research Scientist at the José Luiz Setúbal Foundation ([FJLES](https://fundacaojles.org.br/n/)) and, from January 2021 to September 2024, I was an Advisor at the Rio de Janeiro City Hall ([PCRJ](https://prefeitura.rio/)). In partnership with colleagues, I developed the Indicator of Economic Activity ([IAE-Rio](https://github.com/marcuslavagnole/iae_rio)) and designed the [Observatório Econômico do Rio](https://observatorioeconomico.rio/), an initiative to publicize economic indicators and policies. I have also worked at Accenture as a Data Scientist, mostly on consulting projects for the telecommunications industry. <be>
 
-&nbsp;[<img src="curriculum_vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)&nbsp; &nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)
+&nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!---
+
+&nbsp;[<img src="curriculum_vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)&nbsp; &nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Working papers
 
