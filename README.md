@@ -6,6 +6,21 @@ From September 2023 to September 2024, I served as a Research Scientist at the J
 
 ## Work in progress
 
+- Bayesian nonparametric estimation under informative sampling. <br>
+(with [Widemberg S. Nobre](https://sites.google.com/im.ufrj.br/widemberg-nobre/))
+
+- Mapping household food (in)security from both aggregated and disaggregated survey-based areal data. <br>
+(with Gustavo S. Ferreira)
+
+- Mapping household food (in)security from both aggregated and disaggregated survey-based areal data. <br>
+(with Gustavo S. Ferreira)
+
+- One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
+(with [Antonio P. Ramos](https://tomramos.github.io/), [Fábio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
+[[preprint]](https://osf.io/fea6m/)
+
+- Noncrossing Bayesian quantile regression analysis under informative sampling.
+
 <!---
 
 &nbsp;[<img src="curriculum_vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)&nbsp; &nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)
