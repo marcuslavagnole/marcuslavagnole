@@ -10,7 +10,7 @@ From September 2023 to September 2024, I served as a Research Scientist at the J
 (with [Widemberg S. Nobre](https://sites.google.com/im.ufrj.br/widemberg-nobre/))
 
 - Mapping household food (in)security from survey-based areal data. <br>
-(with Gustavo S. Ferreira)
+(with [Gustavo S. Ferreira](https://scholar.google.com/citations?hl=en&user=M4r5j0MAAAAJ&view_op=list_works&sortby=pubdate))
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fábio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
