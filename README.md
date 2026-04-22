@@ -14,7 +14,7 @@ From September 2023 to September 2024, I served as a Research Scientist at the J
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fábio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
-[[preprint]](https://osf.io/fea6m/)
+[[PAP]](https://osf.io/fea6m/)
 
 - Noncrossing Bayesian quantile regression analysis under informative sampling.
 
