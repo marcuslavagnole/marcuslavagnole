@@ -9,7 +9,7 @@ From September 2023 to September 2024, I served as a Research Scientist at the J
 - Bayesian nonparametric estimation under informative sampling. <br>
 (with [Widemberg S. Nobre](https://sites.google.com/im.ufrj.br/widemberg-nobre/))
 
-- Mapping household food (in)security from both aggregated and disaggregated survey-based areal data. <br>
+- Mapping household food (in)security from survey-based areal data. <br>
 (with Gustavo S. Ferreira)
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
