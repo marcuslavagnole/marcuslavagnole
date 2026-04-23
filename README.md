@@ -14,10 +14,10 @@ From September 2023 to September 2024, I served as a Research Scientist at the J
 
 - One pandemic is not like the other: Contrasting COVID-19 against a New Pandemic. <br>
 (with [Antonio P. Ramos](https://tomramos.github.io/), [Fábio Caldierado](https://ebape.fgv.br/pessoas/fabio-caldieraro), [Chad Hazlett](https://www.chadhazlett.com/)) <br>
-[[PAP]](https://osf.io/fea6m/)
+[PAP](https://osf.io/fea6m/)
 
 - bayesQRsurvey: Bayesian Quantile Regression Approach for Complex Survey Data in R. <br>
-(with Tomás R. Taborda, [[Johnatan C. Jiménez]](https://scholar.google.com/citations?user=1E4Dl80AAAAJ&hl=es), [[Kelly C. M. Gonçalves]](https://sites.google.com/dme.ufrj.br/kelly/home?authuser=0))
+(with Tomás R. Taborda, [Johnatan C. Jiménez](https://scholar.google.com/citations?user=1E4Dl80AAAAJ&hl=es), [Kelly C. M. Gonçalves](https://sites.google.com/dme.ufrj.br/kelly/home?authuser=0))
 
 - Noncrossing Bayesian quantile regression analysis under informative sampling.
 
