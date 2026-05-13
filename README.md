@@ -2,7 +2,7 @@ I am an Assistant Professor at the School of Applied Mathematics at Fundação G
 
 My research focuses on survey statistics, with applications in the social and health sciences.
 
-&nbsp;[<img src="vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)&nbsp; &nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)
+&nbsp;[<img src="vitae.png" width="30" height="30">](https://github.com/marcuslavagnole/marcuslavagnole/blob/main/CV.pdf)&nbsp; &nbsp;[<img src="scholar.png" width="30" height="30">](https://scholar.google.com.br/citations?hl=pt-BR&user=3LQZ65wAAAAJ&view_op=list_works&sortby=pubdate)&nbsp; &nbsp;[<img src="lattes.png" width="30" height="30">]()
 
 ## Work in progress
 
