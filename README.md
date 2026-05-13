@@ -1,4 +1,4 @@
-I am an Assistant Professor at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a research affiliate at [Instituto Pensi](https://institutopensi.org.br/). I earned my D.Sc. in Statistics from the Federal University of Rio de Janeiro.
+I am an Assistant Professor at the School of Applied Mathematics at Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)) and a research affiliate at [Pensi Institute](https://institutopensi.org.br/). I earned my D.Sc. in Statistics from the Federal University of Rio de Janeiro.
 
 My research focuses on survey statistics, with applications in the social and health sciences.
 
